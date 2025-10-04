@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "lib": [
+      "DOM",
+      "ES2019"
+    ],
+    "module": "ES2015",
+    "moduleResolution": "Bundler",
+    "strict": true,
+    "outDir": "dist",
+    "declaration": true,
+    "sourceMap": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "src"
+  ]
+}
